@@ -43,6 +43,6 @@ This repo contains:
  2. open the desired file.c in Microsoft Visual Studio and run it   
 
  ## Further reading
-  - [microsoft docs](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-getthreadcontext)
+  - [microsoft docs]([https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-getthreadcontext](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-queueuserapc))
 - [Malware Development for Ethical Hackers book](https://www.abebooks.co.uk/9781801810173/Malware-Development-Ethical-Hackers-Learn-1801810176/plp)
 - [MalDev Academy Course](https://maldevacademy.com/)
