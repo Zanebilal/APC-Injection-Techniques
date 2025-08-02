@@ -1,6 +1,6 @@
 # APC Injection Techniques (Local & Remote)
 
-This repository demonstrates **APC (Asynchronous Procedure Call) injection**, using the Windows API function `QueueUserAPC` to execute shellcode in either the **local** or a **remote** process/thread.
+This repository demonstrates **APC (Asynchronous Procedure Call) injection**, using the Windows API function `QueueUserAPC` to execute Calculator obfuscated payload in either the **local** or a **remote** process/thread.
 
 # Disclaimer 
 For educational and research purposes only. Do not use this for unauthorized access or malicious activity.
